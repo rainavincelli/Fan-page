@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    display: inline;
+}
+header{
+    text-align: center;
+}
+form{
+    background-color: rgb(16, 140, 57);
+    margin-left: 25%;
+    margin-right: 25%;
+    
+    
+}
+label, input{
+    margin: 10px;
+}
+input:hover{
+    background-color: greenyellow;
+}
